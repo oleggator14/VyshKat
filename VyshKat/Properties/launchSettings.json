@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KPO-HW1": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
